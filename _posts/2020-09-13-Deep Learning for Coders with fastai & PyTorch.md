@@ -22,4 +22,4 @@ The authors spend some time explaining their approach to teaching deep learning,
 
 What I found unique and definitely interesting is the thought process leading to this approach.
 
-I, myself, went through a formal technical and math education. For many years, I learnt math without passion or joy (probability, statistics, calculus, linear algebra, etc.). It's only recently - a few years ago - that I discovered how to actually apply this knowledge in the context of deep learning - leading to more passion and joy to review and use these concepts!
+I, myself, went through a formal technical and math education. For many years, I learnt math without passion or joy (probability, statistics, calculus, linear algebra, etc.) and with little focus real word applications of these theories. It's only recently - a few years ago - that I discovered how to actually apply this knowledge in the context of deep learning. I had some aha! moments when discovering the actually usefulness of partial derivatives and Lagrange function for stochastic gradient descent...
