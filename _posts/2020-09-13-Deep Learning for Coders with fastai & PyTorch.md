@@ -13,6 +13,6 @@ The two authors, Jeremy Howard and Sylvain Gugger, have very different backgroun
 These different backgrounds seem appealing for a book on AI, where both software & math knowledge need to be combined. Hopefully, the rest of the book will demonstrate the power of this combination of talents!
 
 ## Deep learning is for everyone
-Interestingly, the authors kick off their book by busting some myths - one of them being that deep learning requires lots of data to work. They mentioned that one could achieve great results w/ less than 50 items of data. This is somewhat aligned with François Chollet's comments in his book <https://www.manning.com/books/deep-learning-with-python> (initially found in François' blog <https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html>, where there is a section highlighting the relevance of deep learning for small-data problems.
+Interestingly, the authors kick off their book by busting some myths - one of them being that deep learning requires lots of data to work. They mentioned that one could achieve great results w/ less than 50 items of data. This is somewhat aligned with François Chollet's comments in his book <https://www.manning.com/books/deep-learning-with-python> (initially found in François' blog <https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html>), where there is a section highlighting the relevance of deep learning for small-data problems.
 
 By the way, 
