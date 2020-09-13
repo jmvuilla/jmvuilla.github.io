@@ -9,6 +9,7 @@ Here are my first thoughts & comments about this book.
 The two authors, Jeremy Howard and Sylvain Gugger, have very different backgrounds.
 * Jeremy has no formal technical education, but developed a strong AI hands-on experience working on a lot of projects (as a consultant, then running his own company). 
 * Sylvain has a very solid formal mathematical and technical background, with less experience on software coding & machine learning.
+
 These different backgrounds seem appealing for a book on AI, where both software & math need to be combined. Hopefully, the rest of the book will demonstrate that, indeed, the authors are able to clarify concepts to readers with missing backgrounds.
 
 ## Deep learning is for everyone
