@@ -3,7 +3,7 @@ I have been working mostly with TensorFlow and Keras so far, and decided to expl
 
 Note that the book and associated notebooks are available at <https://course.fast.ai/>
 
-![GitHub Logo](</images/Deep Learning for Coders with fastai & PyTorch.PNG>)
+![GitHub Logo](/images/Deep Learning for Coders with fastai & PyTorch.PNG)
 Format: ![Alt Text](url)
 
 Here are my first thoughts & comments about this book.
