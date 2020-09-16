@@ -6,6 +6,8 @@ A solid introduction - which can be found in many different shapes or forms in o
 
 There are two topics in Chapter 1 which piqued my curiosity.
 
+![](</images/Deep Learning Specialization - Transfer Learning.PNG>)
+
 ## Transfer Learning
 The first one is transfer learning. The authors stress the importance of this technique, and claim that the use of pretrained models are not highlighted enough in courses, books or software libraries. While I agree with the importance of transfer learning, I personally came accross this in many courses/books/projects I went through so far.
 * Firstly, I came accross the concept of transfer learning during my AI journey while going through Andrew Ng's Deep Learning Specialization course on Coursera (see <https://www.youtube.com/watch?v=yofjFQddwHE&t=393s> for the corresponding video).     
