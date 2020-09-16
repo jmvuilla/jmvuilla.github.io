@@ -15,10 +15,10 @@ The first one is transfer learning. The authors stress the importance of this te
 * Finally, I would like to highlight an FPGA-based acceleration solution offered on Microsoft Azure, which leverages transfer learning (see <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-fpga-web-service>). In this case, a special device called FPGA (Field-Programmable Gate Array) is used to speed up the computations related to the pre-trained neural network inference.
 
 ## Using CNNs on non-image data
-The second topic I found interesting in Chapter 1 is related to the possible use of image classification to handle non-image data. A few examples are provided by the authors where some non-image data are transformed into images, which can then be processed by a deep learning image classification models such as CNNs.
+The second topic I found interesting in Chapter 1 is related to the possible use of image classification to handle non-image data. A few examples are provided by the authors where some non-image data are transformed into images, which can then be processed by a deep learning image classification model such as CNN.
 * The conversion of some audio content into a spectrogram - a visual representation of the spectrum of frequencies of a signal as a function of time for urban sounds classification,
 * The conversion of time series into images for olive oil classification,
 * the conversion of a series of mouse moves and clicks into an image with lines and dots for fraud detection, and
 * the conversion of binary file (program) into a picture for malware detection.
 
-The authors mentioned these approaches as state to the art ways to get great results.
+The authors mentioned these approaches as state-of-the-art ways to get the best results.
