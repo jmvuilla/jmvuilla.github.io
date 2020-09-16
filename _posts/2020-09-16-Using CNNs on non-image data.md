@@ -2,7 +2,7 @@
 
 In the first chapter of "Deep Learning for Coders with fastai & PyTorch" from Jeremy Howard & Sylvain Gugger (see <https://www.oreilly.com/library/view/deep-learning-for/9781492045519/>), the authors are introducing various concepts ranging from the history of neural networks, AI frameworks, GPUs, a cat vs. dog binary classification example, positioning of AI vs. Machine Learning vs. Deep Learning, underfitting vs. overfitting, training-validation-test sets, etc.
 
-A solid introduction - which can be found in lots of Web sites or books. 
+A solid introduction - which can be found in many Web sites or books.
 
 There are two sections I found interesting in Chapter 1.
 
