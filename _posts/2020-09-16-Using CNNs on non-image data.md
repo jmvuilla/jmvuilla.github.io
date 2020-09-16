@@ -13,3 +13,4 @@ The first one is transfer learning. The authors stress the importance of this te
 * Finally, I would like to highlight an FPGA-based acceleration solution offered on Microsoft Azure, which leverages transfer learning (see <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-fpga-web-service>). In this case, a special device called FPGA (Field-Programmable Gate Array) is used to speed up the computations related to the pre-trained neural network inference.
 
 ## Using CNNs on non-image data
+To be completed.
